@@ -3,12 +3,12 @@
 <br><br>
 
 - Aula 1
-  <h2> Algoritimos Lógica </h2>
+  Algoritimos Lógica 
   
 - Aula 2
-  <h2> Estruturas de Decisões </h2>
+  Estruturas de Decisões 
   
 - Aula 3
-  <h2> Estruturas de Repetição </h2>
+  Estruturas de Repetição 
 
   ## &nbsp; © Todos os direitos reservados
